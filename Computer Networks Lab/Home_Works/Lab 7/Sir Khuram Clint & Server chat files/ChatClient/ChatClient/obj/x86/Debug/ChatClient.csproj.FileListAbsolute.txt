@@ -1,0 +1,18 @@
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ChatClient.Form1.resources
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\Nart Schinackow\Desktop\ChatClient\ChatClient\obj\x86\Debug\ChatClient.exe
+C:\Users\Nart Schinackow\Desktop\ChatClient\ChatClient\obj\x86\Debug\ChatClient.pdb
+C:\Users\Nart Schinackow\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Nart Schinackow\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Nart Schinackow\Desktop\ChatClient\ChatClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nart Schinackow\Desktop\ChatClient\ChatClient\obj\x86\Debug\ChatClient.Form1.resources
+C:\Users\Nart Schinackow\Desktop\ChatClient\ChatClient\obj\x86\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Nart Schinackow\Desktop\ChatClient\ChatClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nart Schinackow\Desktop\ChatClient\ChatClient\obj\x86\Debug\GenerateResource.write.1.tlog

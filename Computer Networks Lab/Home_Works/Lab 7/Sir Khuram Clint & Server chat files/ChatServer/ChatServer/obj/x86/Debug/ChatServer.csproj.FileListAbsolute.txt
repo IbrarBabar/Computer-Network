@@ -1,0 +1,18 @@
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatServer\obj\x86\Debug\ChatServer.Form1.resources
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatServer\obj\x86\Debug\ChatServer.exe
+C:\Users\Nart Schinackow\AppData\Local\Temporary Projects\ChatServer\obj\x86\Debug\ChatServer.pdb
+C:\Users\Nart Schinackow\Desktop\ChatServer\ChatServer\obj\x86\Debug\ChatServer.exe
+C:\Users\Nart Schinackow\Desktop\ChatServer\ChatServer\obj\x86\Debug\ChatServer.pdb
+C:\Users\Nart Schinackow\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Nart Schinackow\Desktop\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Nart Schinackow\Desktop\ChatServer\ChatServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nart Schinackow\Desktop\ChatServer\ChatServer\obj\x86\Debug\ChatServer.Form1.resources
+C:\Users\Nart Schinackow\Desktop\ChatServer\ChatServer\obj\x86\Debug\ChatServer.Properties.Resources.resources
+C:\Users\Nart Schinackow\Desktop\ChatServer\ChatServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nart Schinackow\Desktop\ChatServer\ChatServer\obj\x86\Debug\GenerateResource.write.1.tlog
